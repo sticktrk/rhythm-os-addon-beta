@@ -1,6 +1,6 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
 name: Rhythm OS BETA
-version: "0.1.240-beta"
+version: "0.1.241-beta"
 image: dtconcepts/rhythm-os-addon
 slug: rhythm-beta
 description: "[BETA] Adaptive lighting that follows the sun"
